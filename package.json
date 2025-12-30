@@ -8,7 +8,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "desktop": "electron electron/main.js"
+    "desktop": "electron electron/main.js",
+    "dist": "electron-builder"
   },
   "dependencies": {
     "bcryptjs": "^3.0.3",
@@ -40,6 +41,10 @@
     "db.json",
     "face_service/dist/**/*"
   ],
+  "directories": {
+    "buildResources": "assets",
+    "output": "dist"
+  },
   "build": {
     "appId": "com.securit.app",
     "productName": "Securit",
