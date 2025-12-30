@@ -2,6 +2,7 @@
   "name": "securit",
   "version": "0.1.0",
   "private": true,
+  "main": "electron/main.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -38,5 +39,21 @@
     "package.json",
     "db.json",
     "face_service/dist/**/*"
-  ]
+  ],
+  "build": {
+    "appId": "com.securit.app",
+    "productName": "Securit",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      ".next/**",
+      "electron/**",
+      "public/**",
+      "package.json"
+    ],
+    "win": {
+      "target": "nsis"
+    }
+  }
 }
