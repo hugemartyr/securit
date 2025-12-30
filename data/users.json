@@ -59,6 +59,20 @@
         }
       ],
       "faceEnabled": true
+    },
+    {
+      "id": "4ba01e04-7a61-4e79-9b54-26248fe0e6bb",
+      "email": "name2@example.com",
+      "fullName": "Akhil Raj",
+      "address": "amravati maharashtra",
+      "mobileNumber": "98347879847",
+      "particulars": "silver bracelet",
+      "remarks": [
+        {
+          "text": "34000 deposit done",
+          "date": "2025-12-30T08:47:58.583Z"
+        }
+      ]
     }
   ]
 }
