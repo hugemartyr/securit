@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "fb1fef09-ef40-4e9b-ae87-a126908e1483",
+      "email": "devansh.b1234@gmail.com",
+      "passwordHash": "$2b$10$2.dWz7q8VAZSzrpBpWE9UOJtLGO5QvNYizuSh9rqrk2mhyZbFk4TO",
+      "goldOwned": 86,
+      "faceEnabled": true
+    },
+    {
+      "id": "b1eba7cf-db62-4120-a531-9b1d545b6ab3",
+      "email": "yogeshbaviskar677@gmail.com",
+      "passwordHash": "$2b$10$1zGS1LSmniGVauCiPdSfROTb66MPrTsFt0eLQQcSELC8UW4r2MkI6",
+      "goldOwned": "36",
+      "faceEnabled": true
+    },
+    {
+      "id": "test_user_1",
+      "email": "yogeshbaviskar677@gmail.com",
+      "passwordHash": "$2b$10$1zGS1LSmniGVauCiPdSfROTb66MPrTsFt0eLQQcSELC8UW4r2MkI6",
+      "goldOwned": "38"
+    },
+    {
+      "id": "04fe7e33-22ab-4b3b-87af-291893f91177",
+      "email": "baviskarastha2008@gmail.com",
+      "passwordHash": "$2b$10$fQfQPSbKYcf3IhNDnRqJEu1TFUNM2ZkhSQVHV0O4pxM5zMrtUk/ZK",
+      "goldOwned": "54"
+    },
+    {
+      "id": "3f69eb6a-31e3-4f4e-be88-cef7e8e150a1",
+      "email": "name@example.com",
+      "passwordHash": "$2b$10$camffqlt9r6nyc0x2ogrw.CKmecM4m4qTckvVQnskJSr6Y.7sfqzO",
+      "goldOwned": "67"
+    },
+    {
+      "id": "c61abf3e-beb7-4a3d-8adf-58e835ac5ac4",
+      "email": "efv@gmail.com",
+      "fullName": "retb",
+      "address": "tbre",
+      "mobileNumber": "47575",
+      "particulars": "r",
+      "remarks": "btr"
+    },
+    {
+      "id": "33937958-f444-43e2-831c-6f6a261cd534",
+      "email": "name1@example.com",
+      "fullName": "ram prasad",
+      "address": "nagpur",
+      "mobileNumber": "73477573573",
+      "particulars": "gold ring",
+      "remarks": [
+        {
+          "text": "25000",
+          "date": "2025-12-28T08:27:37.915Z"
+        },
+        {
+          "text": "javherv",
+          "date": "2025-12-28T08:29:11.948Z"
+        }
+      ],
+      "faceEnabled": true
+    }
+  ]
+}
