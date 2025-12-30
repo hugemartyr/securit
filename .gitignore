@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+# Face Service Build Artifacts
+face_service/build/
+face_service/dist/
+*.pkg
