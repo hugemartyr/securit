@@ -37,6 +37,7 @@
   "build": {
     "appId": "com.securit.app",
     "productName": "Securit",
+    "publish": "never",
     "directories": {
       "output": "dist",
       "buildResources": "assets"
